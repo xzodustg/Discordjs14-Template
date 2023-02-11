@@ -1,0 +1,26 @@
+{
+	"name": "discordjs-tem",
+	"version": "3.3.1",
+	"description": "",
+	"types": "",
+	"main": "bot.js",
+	"scripts": {
+		"start": "node bot.js"
+	},
+
+	"author": {
+		"name": "Xasper",
+		"url": "https://github.com/xzodustg",
+		"email": "xasper@admin.support"
+	},
+	"license": "Apache-2.0",
+	"bugs": {
+		"url": "https://github.com/NamVr/DiscordBot-Template/issues"
+	},
+	"homepage": "https://github.com/NamVr/DiscordBot-Template#readme",
+	"dependencies": {
+		"@discordjs/rest": "^1.0.0",
+		"discord-api-types": "^0.36.2",
+		"discord.js": "^14.7.1"
+	}
+}
